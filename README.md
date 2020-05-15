@@ -12,7 +12,7 @@ Il s'agit de copier visuellement une page réalisé avec le framework __Bootstra
 
 ## Le framework inconnu
 
-Le défi sur cette évaluation était de développer cette page en partant de rien mais surtout d'utiliser un framework __inconnu__ ! En effet je n'avais jamais utilisé __Bulma__ et je devais donc assimiler la documentation et m'approprier cette technologie dans un temps limité qui plus est ! L'évaluation doit être rendu dans la journée, que j'ai respecté :)
+Le défi sur cette évaluation était de développer cette page en partant de rien mais surtout d'utiliser un framework __inconnu__ ! En effet je n'avais jamais utilisé __Bulma__ et je devais donc assimiler la documentation et m'approprier cette technologie dans un temps limité qui plus est ! L'évaluation devait être rendu dans la journée, ce que j'ai respecté :)
 
 Je vous laisse aprécier le résultat ci-dessous :
 
